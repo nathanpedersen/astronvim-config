@@ -9,4 +9,6 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+{ "catppuccin/nvim", name = "catppuccin" },
+  {"xiyaowong/transparent.nvim", name = "transparent"}
 }
